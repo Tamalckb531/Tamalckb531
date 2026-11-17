@@ -127,27 +127,27 @@ I've been programming for **4 years**, working across freelance, open-source and
 ## 🌟 Open Source Contributions
 
 <div align="center">
-
 <table>
   <tr>
     <td width="55%" align="center">
-      <a href="https://github.com/calcom/cal.com">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=calcom&repo=cal.com&theme=tokyonight&hide_border=true" alt="cal.com" width="100%" />
+      <a href="https://github.com/calcom/cal.diy">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=calcom&repo=cal.diy&theme=tokyonight&hide_border=true" alt="cal.diy" width="100%" />
       </a>
     </td>
     <td width="45%" align="center">
       <b>Contributor @ cal.com</b><br/><br/>
-      <a href="https://github.com/calcom/cal.com/pulls?q=is%3Apr+author%3ATamalckb531+is%3Amerged">
-        <img src="https://img.shields.io/github/issues-search?query=repo%3Acalcom%2Fcal.com%20author%3ATamalckb531%20is%3Apr%20is%3Amerged&label=Merged%20PRs&color=8b5cf6&style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Merged PRs" />
+      <a href="https://github.com/pulls/search?q=is%3Apr+is%3Amerged+author%3ATamalckb531+repo%3Acalcom%2Fcal.diy">
+        <img src="https://img.shields.io/github/issues-search?query=repo%3Acalcom%2Fcal.diy%20author%3ATamalckb531%20is%3Apr%20is%3Amerged&label=Merged%20PRs&color=8b5cf6&style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs" />
       </a><br/><br/>
-      <a href="https://github.com/calcom/cal.com/pulls?q=is%3Apr+author%3ATamalckb531+is%3Aopen">
-        <img src="https://img.shields.io/github/issues-search?query=repo%3Acalcom%2Fcal.com%20author%3ATamalckb531%20is%3Apr%20is%3Aopen&label=Open%20PRs&color=22d3ee&style=for-the-badge&logo=git&logoColor=white" alt="Open PRs" />
+      <a href="https://github.com/pulls/search?q=is%3Apr+author%3ATamalckb531+is%3Aopen+repo%3Acalcom%2Fcal.diy">
+        <img src="https://img.shields.io/github/issues-search?query=repo%3Acalcom%2Fcal.diy%20author%3ATamalckb531%20is%3Apr%20is%3Aopen&label=Open%20PRs&color=22d3ee&style=for-the-badge&logo=git&logoColor=white" alt="Open PRs" />
       </a><br/><br/>
-      <a href="https://github.com/calcom/cal.com/pulls?q=is%3Apr+author%3ATamalckb531+is%3Amerged"><b>View all merged PRs →</b></a>
+      <a href="https://github.com/pulls/search?q=is%3Apr+is%3Amerged+author%3ATamalckb531+repo%3Acalcom%2Fcal.diy">
+        <b>View all merged PRs →</b>
+      </a>
     </td>
   </tr>
 </table>
-
 </div>
 
 <!--
